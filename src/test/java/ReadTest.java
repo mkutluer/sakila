@@ -18,4 +18,9 @@ public class ReadTest {
             sessionFactory.close();
         }
     }
+
+    @Test
+    public void actor() {
+
+    }
 }
